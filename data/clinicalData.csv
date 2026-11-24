@@ -1,0 +1,48 @@
+,sample,dtr,tnm,anatomy,tx,area
+0,pt1pre_roi1,804,2,oral cavity,Cisplatin,5.82638175
+1,pt1pre_roi2,804,2,oral cavity,Cisplatin,6.20439625
+2,pt1pre_roi3,804,2,oral cavity,Cisplatin,6.2262165
+3,pt1post_roi1,61,2,oral cavity,,6.10456775
+4,pt1post_roi2,61,2,oral cavity,,6.20041325
+5,pt1post_roi3,61,2,oral cavity,,6.20394
+6,pt2pre_roi1,123,4,oral cavity,Cetuximab,6.139365
+7,pt2pre_roi2,123,4,oral cavity,Cetuximab,6.1098265
+8,pt2pre_roi3,123,4,oral cavity,Cetuximab,6.200545
+9,pt2post_roi1,63,4,oral cavity,,6.12822825
+10,pt3pre_roi1,1447,1,oral cavity,Cisplatin,6.16642575
+11,pt3pre_roi2,1447,1,oral cavity,Cisplatin,6.1922475
+12,pt3pre_roi3,1447,1,oral cavity,Cisplatin,6.21665675
+13,pt3post_roi1,68,1,oral cavity,,3.84761325
+14,pt3post_roi2,68,1,oral cavity,,3.49254125
+15,pt4pre_roi1,246,1,oral cavity,Cisplatin,1.68506425
+16,pt4pre_roi2,246,1,oral cavity,Cisplatin,3.11529875
+17,pt4post_roi1,61,1,oral cavity,,6.10432
+18,pt4post_roi2,61,1,oral cavity,,5.836389
+19,pt4post_roi3,61,1,oral cavity,,6.18579025
+20,pt5pre_roi1,202,4,oropharynx,Cetuximab,5.91931575
+21,pt5pre_roi2,202,4,oropharynx,Cetuximab,6.16501625
+22,pt5pre_roi3,202,4,oropharynx,Cetuximab,6.1083475
+23,pt5post_roi1,na,4,oropharynx,,6.186922
+24,pt5post_roi2,na,4,oropharynx,,6.032735
+25,pt5post_roi3,na,4,oropharynx,,5.94321
+26,pt6pre_roi1,188,4,oropharynx,Cisplatin,5.23632175
+27,pt6pre_roi2,188,4,oropharynx,Cisplatin,4.49378575
+28,pt6post_roi1,19,4,oropharynx,,6.09845225
+29,pt7pre_roi1,409,4,larynx,Both,4.79653025
+30,pt7pre_roi2,409,4,larynx,Both,4.737721
+31,pt7pre_roi3,409,4,larynx,Both,5.76944125
+32,pt7post_roi1,938,4,larynx,,6.20963825
+33,pt7post_roi2,938,4,larynx,,6.2398635
+34,pt7post_roi3,938,4,larynx,,6.251757
+35,pt8pre_roi1,1033,3,larynx,Cisplatin,6.047679
+36,pt8pre_roi2,1033,3,larynx,Cisplatin,6.12776675
+37,pt8pre_roi3,1033,3,larynx,Cisplatin,5.64621975
+38,pt8post_roi1,96,3,larynx,,6.22832725
+39,pt8post_roi2,96,3,larynx,,6.247515
+40,pt8post_roi3,96,3,larynx,,6.0942015
+41,pt9pre_roi1,83,4,larynx,Cisplatin,6.032988
+42,pt9pre_roi2,83,4,larynx,Cisplatin,5.90232375
+43,pt9pre_roi3,83,4,larynx,Cisplatin,6.03252475
+44,pt9post_roi1,na,4,larynx,,6.124129
+45,pt9post_roi2,na,4,larynx,,5.55838875
+46,pt9post_roi3,na,4,larynx,,5.74469625
